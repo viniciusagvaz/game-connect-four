@@ -1,7 +1,7 @@
 <h1>This is a connect-four game by Ania Kubów</h1>
 
 It's the sixth functional game that I'll be learning for the next few days a total of seven games will be taught in this course.
-<a>https://zoomviex.github.io/game-connect-four/</a>
+<a>https://viniciusagvaz.github.io/game-connect-four/</a>
 <hr>
 <div>
 <h3>JavaScript Properties and Methods cover:</h3>
